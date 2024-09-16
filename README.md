@@ -1,6 +1,7 @@
 <a href="https://imagetolink.com/ib/P9vv0dZj41"><img src="https://imagetolink.com/ib/P9vv0dZj41.png" alt="P9vv0dZj41"/></a>
 
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Ankon karak</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" height="55px" width="55px">
+, I'm Ankon karak</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Developer | Learner
